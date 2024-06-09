@@ -215,18 +215,27 @@ In the Jupyter notebook, the hypothesis testing was conducted using Python's sta
 
 The ANOVA results provided the following insights:
 1.  Sectoral Differences in Funding:
+   
 •	Result: The p-value for the sector factor was extremely high (0.99276), indicating no significant difference in funding amounts across sectors.
+
 •	Interpretation: The sector of a startup does not significantly influence the funding amount received.
+
 2.  Geographic Differences in Funding (Headquarters):
+   
 •	Result: The p-value for the headquarters factor was also very high (0.99276), suggesting no significant difference in funding amounts based on the headquarters location.
+
 •	Interpretation: The headquarters location of a startup does not significantly influence the funding amount received.
+
 3.  Differences in Funding Stages:
+   
 •	Result: The p-value for the stage factor was high (0.99276), indicating no significant difference in funding amounts across different funding stages.
+
 •	Interpretation: The funding stage of a startup does not significantly influence the funding amount received.
 
 **CONCLUSION**
 
 •	Null Hypothesis (H0): The factors like sector, stage, and headquarters have no significant influence on the funding startups receive.
+
 •	Alternative Hypothesis (H1): The factors like sector, stage, and headquarters have a significant influence on the funding startups receive.
 
 The ANOVA results suggest that Sector, HeadQuarter, and Stage do not have a significant effect on the Amount in the dataset. Most of the variability in the Amount is likely due to other factors not included in the model or random variation.
@@ -245,6 +254,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 •	To analyse the yearly trend in funding received by Indian startups to identify any significant patterns or changes over time.
 
  **Findings**
+
 •	There was a notable increase in funding amounts over the years, with a significant surge observed during the COVID-19 pandemic, particularly in the tech and finance sectors.
 
 ![alt text](image.png)
@@ -255,6 +265,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 •	To identify which sectors have received the highest amount of funding in India between 2018 and 2021.
 
     **Findings**
+
 •	The tech sector consistently received the highest funding, followed by finance and healthcare. This indicates strong investor confidence in technology-driven solutions and financial services.
 
 ![alt text](image-2.png)
@@ -274,16 +285,18 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 •	To identify the top 10 companies in India that have received the highest amount of funding.
 
       **Findings**
+
 •	Companies such as Robotics, FypMoney, and CollegeDekho were among the most funded, showcasing their strong market presence and growth potential.
 
 
 ![alt text](image-4.png)
 
-5.  **Funding Stages Analysis:**
+1.  **Funding Stages Analysis:**
 
 •	To determine the stages of funding that have the highest average amounts received by Indian startups.
 
     **Findings**
+
 •	Later-stage funding rounds (e.g., Series B, Series C) attracted the highest average funding amounts, indicating that investors are willing to invest larger sums in more established startups.
 
 
@@ -328,7 +341,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 
 The analysis of the Indian startup ecosystem from 2018 to 2021 provided comprehensive insights into the funding trends, sectoral preferences, geographic distributions, and key players within the market.
 
-**Recommendations*
+**Recommendations**
 
 **For Startups**
 
@@ -343,11 +356,13 @@ The analysis of the Indian startup ecosystem from 2018 to 2021 provided comprehe
 •	Monitor market trends for informed investment decisions.
 
 **For Policymakers**
+
 •	Support emerging ecosystems beyond major hotspots.
 
 •	Facilitate digital transformation.
 
 **For Entrepreneurs**
+
 •	Adapt to market changes.
 
 •	Build strong networks for growth opportunities.

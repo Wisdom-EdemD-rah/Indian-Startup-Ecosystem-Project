@@ -1,23 +1,5 @@
 **INDIAN ECOSYSTEM START UP FUNDING PROJECT**
 
-## Table of Contents
-
-Project Overview
-
-Data Sources
-
-Data Cleaning and Preparation
-
-Data Analysis
-
-Key Insights and Recommendations
-
-Conclusion
-
-How to Run the Project
-
-Contact Information
-
 
 
 **Business Understanding**
@@ -271,6 +253,8 @@ o	To analyze the yearly trend in funding received by Indian startups to identify
 
 o	**Findings:**
 	There was a notable increase in funding amounts over the years, with a significant surge observed during the COVID-19 pandemic, particularly in the tech and finance sectors.
+
+![alt text](image.png)
 
 2.	**Sectoral Analysis: :**
 

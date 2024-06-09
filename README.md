@@ -210,6 +210,53 @@ o	Outliers were handled based on their context, either by capping extreme values
 
 o	For specific analyses, normalized and scaled the data to ensure comparability across different ranges of values.
 
+
+**Hypothesis Testing**
+
+**Overview**
+
+Hypothesis testing was utilized to validate key insights derived from the data analysis, focusing on the relationships and differences in funding patterns across various dimensions such as sectors, headquarters, and funding stages. 
+Specifically, we tested whether these factors significantly influenced the funding amounts received by startups.
+
+**Hypothesis Tests Conducted**
+1.	Sectoral Differences in Funding
+2.	Geographic Differences in Funding (Headquarters)
+3.	Differences in Funding Stages
+
+**Hypotheses**
+•	Null Hypothesis (H0): The factors like sector, stage, and headquarters have no significant influence on the funding startups receive.
+
+•	Alternative Hypothesis (H1): The factors like sector, stage, and headquarters have a significant influence on the funding startups receive.
+
+**ANOVA Computation Explanation**
+
+•	Sum of Squares (sum_sq): This column shows the sum of squares for each factor and the residuals. The sum of squares measures the variability in the data that can be attributed to each factor.
+•	Degrees of Freedom (df): This column shows the degrees of freedom associated with each factor and the residuals. The degrees of freedom represent the number of independent pieces of information available to estimate the parameters.
+•	F-Statistic (F): This column shows the F-statistic for each factor. The F-statistic is the ratio of the mean square of the factor to the mean square of the residuals. It is used to determine if the factor has a significant effect on the dependent variable.
+•	P-Value (PR(>F)): This column shows the p-value associated with the F-statistic. The p-value is used to determine the statistical significance of the factor. A low p-value (typically < 0.05) indicates that the factor has a significant effect on the dependent variable.
+
+**Implementation in the Notebook**
+
+In the Jupyter notebook, the hypothesis testing was conducted using Python's statistical libraries. :
+The ANOVA results provided the following insights:
+1.	Sectoral Differences in Funding:
+o	Result: The p-value for the sector factor was extremely high (0.99276), indicating no significant difference in funding amounts across sectors.
+o	Interpretation: The sector of a startup does not significantly influence the funding amount received.
+2.	Geographic Differences in Funding (Headquarters):
+o	Result: The p-value for the headquarters factor was also very high (0.99276), suggesting no significant difference in funding amounts based on the headquarters location.
+o	Interpretation: The headquarters location of a startup does not significantly influence the funding amount received.
+3.	Differences in Funding Stages:
+o	Result: The p-value for the stage factor was high (0.99276), indicating no significant difference in funding amounts across different funding stages.
+o	Interpretation: The funding stage of a startup does not significantly influence the funding amount received.
+
+**Conclusion**
+
+•	Null Hypothesis (H0): The factors like sector, stage, and headquarters have no significant influence on the funding startups receive.
+•	Alternative Hypothesis (H1): The factors like sector, stage, and headquarters have a significant influence on the funding startups receive.
+The ANOVA results suggest that Sector, HeadQuarter, and Stage do not have a significant effect on the Amount in the dataset. Most of the variability in the Amount is likely due to other factors not included in the model or random variation.
+
+
+
 **Final Dataset:**
 
 After the data cleaning and preparation steps, the final dataset was robust and ready for analysis. The prepared dataset allowed for comprehensive insights into the Indian startup ecosystem, enabling detailed analysis of funding trends, sectoral preferences, geographic distributions, and key players in the market.

@@ -8,7 +8,7 @@ As the data expert on the team, I am tasked with conducting an in-depth analysis
 
 **Data Understanding**
 
-*Project Objective*
+*Project Objective
 
 The main goal of this project is to analyze the funding landscape of Indian startups from 2018 to 2021. The dataset used for analysis contains information about startup funding from 2019 to 2021. The dataset includes various attributes such as the company's name, sector, funding amount, funding round, investor details, and location. By understanding the trends, sectors, locations, stages, and key players in startup funding, stakeholders can make informed decisions and strategic plans. To conduct a comprehensive analysis, I will examine the dataset to understand its structure, contents, and any potential data quality issues. By understanding the data, I can ensure the accuracy and reliability of our analysis. Analyze funding received by start-ups in India from 2018 to 2021 and provide insights and propose the best course of action and recommendations.
 
@@ -155,9 +155,9 @@ Data cleaning and preparation are crucial steps in the data analysis process to 
 Here’s a detailed description of how data cleaning and preparation were carried out for this project:
 1.	**Data Collection:**
 
-o	Data from 2018 was directly read from the GitHub repository.
-o	Data for 2019 was downloaded from OneDrive, uploaded to the GitHub repository, and then read into pandas.
-o	Data for 2020 and 2021 was retrieved from the SQL Server database using appropriate credentials.
+*Data from 2018 was directly read from the GitHub repository.
+*Data for 2019 was downloaded from OneDrive, uploaded to the GitHub repository, and then read into pandas.
+*Data for 2020 and 2021 was retrieved from the SQL Server database using appropriate credentials.
 
 2.	**Combining Datasets:**
 

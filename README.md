@@ -202,8 +202,11 @@ Hypothesis testing was utilized to validate key insights derived from the data a
 **ANOVA Computation Explanation**
 
 •	Sum of Squares (sum_sq): This column shows the sum of squares for each factor and the residuals. The sum of squares measures the variability in the data that can be attributed to each factor.
+
 •	Degrees of Freedom (df): This column shows the degrees of freedom associated with each factor and the residuals. The degrees of freedom represent the number of independent pieces of information available to estimate the parameters.
+
 •	F-Statistic (F): This column shows the F-statistic for each factor. The F-statistic is the ratio of the mean square of the factor to the mean square of the residuals. It is used to determine if the factor has a significant effect on the dependent variable.
+
 •	P-Value (PR(>F)): This column shows the p-value associated with the F-statistic. The p-value is used to determine the statistical significance of the factor. A low p-value (typically < 0.05) indicates that the factor has a significant effect on the dependent variable.
 
 **Implementation in the Notebook**

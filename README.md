@@ -251,55 +251,63 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 
 o	To analyze the yearly trend in funding received by Indian startups to identify any significant patterns or changes over time.
 
-o	**Findings:**
+o	**Findings**
 	There was a notable increase in funding amounts over the years, with a significant surge observed during the COVID-19 pandemic, particularly in the tech and finance sectors.
 
 ![alt text](image.png)
+![alt text](image-1.png)
 
 2.	**Sectoral Analysis: :**
 
 o	To identify which sectors have received the highest amount of funding in India between 2018 and 2021.
 
-o	**Findings: :**
+o	**Findings**
 	The tech sector consistently received the highest funding, followed by finance and healthcare. This indicates strong investor confidence in technology-driven solutions and financial services.
+![alt text](image-2.png)
 
 3.	**Geographic Distribution: :**
 
 o	To analyze the total funding amounts received by startups in various headquarters within India.
 
-o	**Findings:**
+o	**Findings**
 
 	Major cities like Bangalore, Mumbai, and Delhi emerged as the top headquarters receiving the highest funding, highlighting these regions as hotspots for startup activity and investment.
+![alt text](image-3.png)
 
 4.	**Top Funded Companies:**
 
 o	To identify the top 10 companies in India that have received the highest amount of funding.
 
-o	**Findings:**
+o	**Findings**
 	Companies such as Robotics, FypMoney, and CollegeDekho were among the most funded, showcasing their strong market presence and growth potential.
 
+![alt text](image-4.png)
 5.	**Funding Stages Analysis:**
 
 o	To determine the stages of funding that have the highest average amounts received by Indian startups.
 
-o	**Findings:**
+o	**Findings**
 	Later-stage funding rounds (e.g., Series B, Series C) attracted the highest average funding amounts, indicating that investors are willing to invest larger sums in more established startups.
+
+![alt text](image-5.png)
 
 6.	**Yearly Top Funded Startups:**
 
 o	To identify the startups that received the highest funding in each year.
 
-o	**Findings:**
+o	**Findings**
 
 	Different startups topped the funding charts each year, reflecting a dynamic and evolving investment landscape. For example, Robotics received the highest funding in 2021.
+![alt text](image-6.png)
 
-7.	**Top Funded Locations:**
+7.	**Top Funded Locations*(Headquarters)**
 
 o	To identify the top 10 locations in India that received the most funding for startups.
 
-o	**Findings:**
+o	**Findings**
 
 	Cities such as Bangalore, Mumbai, and Delhi consistently appeared in the top 10 list, emphasizing their role as major startup hubs in India.
+![alt text](image-7.png)
 
 8.	**Impact of COVID-19:**
 
@@ -309,9 +317,12 @@ o	**Findings:**
 
 	The pandemic significantly influenced funding patterns, with increased investments in sectors that support digital transformation and remote operations. Tech and finance sectors saw substantial growth in funding during the pandemic, while healthcare also experienced increased investment initially.
 
+![alt text](image-9.png)
+
+
 **Conclusion and Recommendations**
 
-**Conclusion:**
+**Conclusion**
 
 The analysis of the Indian startup ecosystem from 2018 to 2021 provided comprehensive insights into the funding trends, sectoral preferences, geographic distributions, and key players within the market.
 

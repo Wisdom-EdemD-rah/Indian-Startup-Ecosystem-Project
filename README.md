@@ -193,6 +193,7 @@ Hypothesis testing was utilized to validate key insights derived from the data a
 2.	Geographic Differences in Funding (Headquarters)
 3.	Differences in Funding Stages
 
+
 **Hypotheses**
 
 •	Null Hypothesis (H0): The factors like sector, stage, and headquarters have no significant influence on the funding startups receive.
@@ -382,7 +383,8 @@ Sectoral Distribution: The funding amounts were distributed across various secto
 
 Sectoral Impact: The analysis reveals the impact of the COVID-19 pandemic on funding amounts across different sectors. While some sectors saw a decline, others experienced increased investor interest.
  
- ![alt text](image.png)
+![alt text](image-1.png)
+
 
 **CONCLUSION AND RECOMMENDATIONS**
 

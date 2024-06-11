@@ -268,7 +268,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 
 •	The tech sector consistently received the highest funding, followed by finance and healthcare. This indicates strong investor confidence in technology-driven solutions and financial services.
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 3.	.  **Geographic Distribution: :**
 
@@ -278,7 +278,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 
 •	Major cities like Bangalore, Mumbai, and Delhi emerged as the top headquarters receiving the highest funding, highlighting these regions as hotspots for startup activity and investment.
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 4.4.  **Top Funded Companies:**
 
@@ -289,7 +289,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 •	Companies such as Robotics, FypMoney, and CollegeDekho were among the most funded, showcasing their strong market presence and growth potential.
 
 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 1.  **Funding Stages Analysis:**
 
@@ -300,8 +300,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 •	Later-stage funding rounds (e.g., Series B, Series C) attracted the highest average funding amounts, indicating that investors are willing to invest larger sums in more established startups.
 
 
-![alt text](image-5.png)
-
+![alt text](Images/image-5.png) 
 6.  **Yearly Top Funded Startups**
 
 •	To identify the startups that received the highest funding in each year.
@@ -310,7 +309,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 
 •	Different startups topped the funding charts each year, reflecting a dynamic and evolving investment landscape. For example, Robotics received the highest funding in 2021.
 
-![alt text](image-6.png)
+![alt text](Images/image-6.png)
 
 7.	**Top Funded Locations  (Headquarters)**
 
@@ -321,7 +320,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 •	Cities such as Bangalore, Mumbai, and Delhi consistently appeared in the top 10 list, emphasizing their role as major startup hubs in India.
 
 
-![alt text](image-7.png)
+![alt text](Images/image-7.png) 
 
 .  **Impact of COVID-19**
 
@@ -332,8 +331,7 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 •	The pandemic significantly influenced funding patterns, with increased investments in sectors that support digital transformation and remote operations. Tech and finance sectors saw substantial growth in funding during the pandemic, while healthcare also experienced increased investment initially.
 
 
-![alt text](image-9.png)
-
+![alt text](Images/image-8.png)
 
 
 

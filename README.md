@@ -381,9 +381,10 @@ Dominant Sectors: Fintech, Retail, and Tech were the leading sectors in terms of
 Sectoral Distribution: The funding amounts were distributed across various sectors, highlighting the diverse interests of investors.
 
 **Impact of COVID-19 on Funding Amounts**
-g
+
 Sectoral Impact: The analysis reveals the impact of the COVID-19 pandemic on funding amounts across different sectors. While some sectors saw a decline, others experienced increased investor interest.
  
+ ![alt text](image.png)
 
 **CONCLUSION AND RECOMMENDATIONS**
 

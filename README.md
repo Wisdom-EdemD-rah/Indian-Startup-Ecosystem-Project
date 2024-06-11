@@ -335,6 +335,56 @@ The cleaned and prepared dataset was then used for various analyses to extract m
 ![alt text](image-9.png)
 
 
+
+
+**Power BI Deployment**
+
+**Overview**
+
+This project analyzes the funding trends and dynamics within the Indian start-up ecosystem over the period from 2018 to 2021. The analysis provides insights into total funding amounts, sector-wise distribution, headquarters of the companies receiving the funding, and the impact of COVID-19 on these funding trends.
+
+**Key Findings**
+
+**Trend in Funding Amounts for Indian Startups (2018-2021)**
+
+
+Total Funding Amount: The visualization shows a significant increase in funding amounts over the years. The total funding reached its peak in 2021.
+
+Funding by Year: Each year saw varying amounts of funding, with a notable surge in 2020, followed by consistent high levels in 2021.
+
+**Total Funding Amount by Headquarters**
+
+Major Headquarters: Mumbai, Bangalore, and Delhi emerged as the top cities where start-ups received the most funding, with Mumbai leading the chart at 231 billion USD.
+
+Other Key Cities: Cities like Chennai, Gurgaon, and Pune also featured prominently but with relatively lower funding amounts.
+
+**Top Companies with the Highest Funding (2018-2021**
+
+Leading Companies: Byju's, OYO, and Zomato were among the top companies that secured the highest funding amounts, indicating strong investor confidence in these brands.
+
+Funding Distribution: The pie chart illustrates the distribution of funding among the top companies, with Byju's taking a significant share of the total funding.
+
+**Top Funding Stages with the Highest Average Funding**
+
+Series B Funding: Start-ups at the Series B funding stage received the highest average funding, indicating a strong preference for investing in companies at this growth stage.
+
+Other Stages: Seed, Series A, and Series C funding stages also saw substantial investments.
+
+**Top Funded Startups Each Year (2018-2021)**
+
+Yearly Leaders: The bar chart showcases the top-funded start-ups for each year, with companies like Byju's and OYO consistently appearing at the top.
+
+**Total Funding Amount by Sector (2018-2021)**
+
+Dominant Sectors: Fintech, Retail, and Tech were the leading sectors in terms of funding received. Fintech, in particular, saw a massive inflow of capital amounting to 200 billion USD.
+
+Sectoral Distribution: The funding amounts were distributed across various sectors, highlighting the diverse interests of investors.
+
+**Impact of COVID-19 on Funding Amounts**
+g
+Sectoral Impact: The analysis reveals the impact of the COVID-19 pandemic on funding amounts across different sectors. While some sectors saw a decline, others experienced increased investor interest.
+ 
+
 **CONCLUSION AND RECOMMENDATIONS**
 
 **Conclusion**
